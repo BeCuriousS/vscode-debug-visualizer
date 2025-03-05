@@ -1,7 +1,7 @@
 {
-	"name": "debug-visualizer",
+	"name": "debug-visualizer-fixed",
 	"private": true,
-	"displayName": "Debug Visualizer",
+	"displayName": "Debug Visualizer (FIXED)",
 	"description": "A visual watch window that lets you visualize your data structures while debugging.",
 	"icon": "docs/logo.drawio.png",
 	"version": "2.6.0",
